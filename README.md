@@ -1,5 +1,7 @@
 # 🛡️ ZAMA Auction Tracker (DOM-based & Fully Automated)
 
+<img width="1915" height="952" alt="image" src="https://github.com/user-attachments/assets/c2dcf83f-642c-4ed9-8206-68c7d8e13c68" />
+
 > **⚠️ Current Status:** 🚧 **Pending Approval**
 > This script is currently for internal/personal testing. I am waiting for confirmation from the **@zama** team to ensure this tool can be public shared.
 
@@ -50,4 +52,4 @@ Since this tool is **100% automated**, modern browsers might try to "sleep" the 
 * Use this tool at your own risk.
 * The logic relies on the website's HTML structure. If ZAMA updates their UI, this script may need an update.
 
-<img width="1915" height="952" alt="image" src="https://github.com/user-attachments/assets/c2dcf83f-642c-4ed9-8206-68c7d8e13c68" />
+
